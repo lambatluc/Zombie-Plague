@@ -1,7 +1,7 @@
 # Modified from:
 #     https://github.com/github/gitignore/blob/master/Unity.gitignore
 
-/[Uu]serSettings/
+/[Ll]ibrary/
 [Tt]emp/
 /[Bb]uild/
 /[Bb]uilds/
